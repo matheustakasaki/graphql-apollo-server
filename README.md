@@ -1,3 +1,3 @@
 # graphql-apollo-server
 
-Curso de GraphQL
+Curso de GraphQL - Hiring Coders
